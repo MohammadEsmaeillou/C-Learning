@@ -4,3 +4,4 @@ Table of Contents
 - Chapter 2: Fundementals of C++
 - Chapter 3: Control Statements
 - Chapter 4: Arrays and Vectors
+- Chapter 5: Functions
