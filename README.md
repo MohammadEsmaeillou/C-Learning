@@ -5,3 +5,4 @@ Table of Contents
 - Chapter 3: Control Statements
 - Chapter 4: Arrays and Vectors
 - Chapter 5: Functions
+- Chapter 6: Introduction to Classes and Objects
