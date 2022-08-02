@@ -1,5 +1,5 @@
-The Complete C++ Developer Course
-Table of Contents
+
+#Table of Contents
 - Chapter 1: Setting up IDE (No Content)
 - Chapter 2: Fundementals of C++
 - Chapter 3: Control Statements
