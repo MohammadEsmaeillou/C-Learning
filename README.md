@@ -1,6 +1,4 @@
-#The Complete C++ Developer Course
-#
-# C-Learning
+The Complete C++ Developer Course
 Table of Contents
 - Chapter 1: Setting up IDE (No Content)
 - Chapter 2: Fundementals of C++
