@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\320196531\Documents\C++ Files\RethrowFun1\main.cpp(58,33): warning C4101: 'err': unreferenced local variable
+C:\Users\320196531\Documents\C++ Files\RethrowFun1\main.cpp(63,29): warning C4101: 'err': unreferenced local variable
+  RethrowFun1.vcxproj -> C:\Users\320196531\Documents\C++ Files\RethrowFun1\x64\Debug\RethrowFun1.exe
