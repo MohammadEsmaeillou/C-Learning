@@ -6,3 +6,4 @@ Table of Contents
 - Chapter 4: Arrays and Vectors
 - Chapter 5: Functions
 - Chapter 6: Introduction to Classes and Objects
+- Chapter 7: Exceptions and Debugging 
